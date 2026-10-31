@@ -1,6 +1,6 @@
 # 케빈스튜디오 · 포팔서버 런처
 
-**20261031-r2-8-20-2-title-creation-fix · v1.8.1 · Windows 64비트**
+**20261031-r2-8-20-3-prison-buff-view · v1.8.2 · Windows 64비트**
 
 **[최신 설치기 다운로드](https://kevinstudio.shop/download/launcher)** · [포팔서버 안내](https://kevinstudio.shop/popal) · [신청 내역](https://kevinstudio.shop/popal/streamers)
 
@@ -22,7 +22,7 @@
 
 ## 팩과 설정
 
-Minecraft 1.21.1 / Fabric 0.19.5 / Cobblemon 1.8.1+1.21.1 / 129개 모드.
+Minecraft 1.21.1 / Fabric 0.19.5 / Cobblemon 1.8.1+1.21.1 / 130개 모드.
 
 키·셰이더·음악·GUI 설정과 서버 주소를 보존합니다. 기본값은 음악 0%, 밝기 100%, GUI 3, Complementary Reimagined r5.9.3 활성화·블룸 끄기·구름 높이 500·구름 스타일 1입니다. 최케빈의 실제 설치 런처에 저장된 프리셋을 반영했습니다. 새 설치와 기존 배포 기본값에 적용하며, 사용자가 별도로 바꾼 셰이더 설정은 유지합니다. 서버용 리소스팩 선택 순서는 배포 구성에 맞추고 개인 추가 리소스팩은 유지합니다.
 
